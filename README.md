@@ -2,7 +2,9 @@
 # Mattheus Veloso Dias
 
 **Senior Analytics Engineer · Crypto-Native Consumer Finance**
+
 Grand Cayman, Cayman Islands
+
 🔗 [LinkedIn](https://linkedin.com/in/mattheusvelosodias) · [GitHub](https://github.com/Mattveloso)
 
 ## Experience
@@ -11,9 +13,9 @@ Grand Cayman, Cayman Islands
 **Data Analytics Lead** · Grand Cayman · 2025 – Present
 
 Leading analytics at Ether.fi, where I own the data layer across the company: from instrumentation and pipelines through to dashboards and reporting.
-• Partner with Product, Compliance, Finance, and Growth teams on their analytics and reporting needs.
-• Build and maintain the data infrastructure and tooling behind the company's Analytics.
-• Work closely with leadership on business reporting and insights.
+- Partner with Product, Compliance, Finance, and Growth teams on their analytics and reporting needs.
+- Build and maintain the data infrastructure and tooling behind the company's Analytics.
+- Work closely with leadership on business reporting and insights.
 
 ### Nubank — Largest digital bank outside Asia
 **Senior Analytics Engineer** · São Paulo · 2021 – 2025
